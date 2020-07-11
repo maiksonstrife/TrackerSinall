@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group>
+        <item android:id="@+id/aceitar"
+            android:icon="@menu/ic_aceitar"
+            android:title="Aceitar" />
+
+        <item android:id="@+id/recusar"
+            android:icon="@menu/ic_recusar"
+            android:title="Recusar" />
+
+        <item android:id="@+id/iniciar"
+            android:icon="@menu/ic_iniciar"
+            android:title="Iniciar" />
+
+        <item android:id="@+id/finalizar"
+            android:icon="@menu/ic_finalizar"
+            android:title="Finalizar" />
+
+        <item android:id="@+id/finalizarRetorno"
+            android:icon="@menu/ic_finalizar_retorno"
+            android:title="Finalizar Com Retorno" />
+
+        <item android:id="@+id/reabrir"
+            android:icon="@menu/ic_reabrir"
+            android:title="Reabrir" />
+
+        <item android:id="@+id/baixar"
+            android:icon="@menu/ic_baixar"
+            android:title="Baixar" />
+
+    </group>
+    <group android:id="@+id/group_menu">
+        <item android:id="@+id/alterarserie"
+            android:title="Alterar o número de série" />
+        <item android:id="@+id/voltarchamado"
+            android:title="Voltar o chamado para a situação anterior" />
+    </group>
+</menu>
