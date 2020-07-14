@@ -10,6 +10,6 @@ Ferramenta faz o controle de técnicos<br><br>
 -Retrofit2 + PHP + SQL<br>
 
 ![](img/trackersinall.png)
-<br
-![](img/trackersinall.png2)
+<br>
+![](img/trackersinall2.png)
 
