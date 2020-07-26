@@ -2,7 +2,7 @@
 <br><br>
 -Controle de técnicos por supervisores<br>
 -Controle para técnicos terem controle de seus chamados<br>
--Nativo Android: Kotlin, Android Studio, Java
+-Nativo Android: Kotlin, Android Studio
 
 -recebe contagem de Toner das impressoras no cliente<br>
 -Permite abertura do chamado apenas ao atingir um determinado perimetro de proximidade<br>
